@@ -1,0 +1,10 @@
+Double Click start .py to run it. If it is not opening make sure that you have python installed
+Link -> https://python.org
+
+Once Installed then open start.py and type amount of codes to be generated and checked. 
+
+I made an .EXE version if you don't want to install python
+
+NOTE: Do not enter too many codes because it may lead to system crash
+
+Subscribe me or you won't find W0RKING C0DES!
